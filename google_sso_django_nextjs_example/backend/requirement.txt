@@ -1,0 +1,8 @@
+Django
+djangorestframework
+google-api-core
+google-auth
+google-auth-httplib2
+googleapis-common-protos
+google-api-python-client
+django-cors-headers
